@@ -1,0 +1,15 @@
+Operating system: Windows 10
+Graphics Card: nVidea GeForce 1050
+BLENDER Versions: Tried both: 2.93.1 and 2.83.16 same error.
+Daz 3d vs: 4.12.118 64bit.
+
+Using DazToBlender addon, G8M character (plain)  with Base resolution and subdiv  and Render, both at o. 
+In Blender, when selecting; to Rigify, the resultant figure’s eyes are popped out and relocated between the eyebrows with back to front. 
+When the script was run in Daz 3D, the message box was ticked for: level 0; and collect textures. 
+When loading a previous Blender file, with the same problem a message came up reading:
+
+“This may lead to unexpected behavior: 
+With a small checkbox: permanently allow execution of scripts and
+With two more larger checkboxes: ALLOW and IGNORE. I selected ALLOW and made a new transfer from Daz. The popped-out eye problem was not resolved. I am including the Blender file: popout.blend.
+
+Kind Regards      Hennie De Villiers
